@@ -61,7 +61,7 @@ public class Launcher extends PApplet{
 	//JSONObject json = new JSONObject();
 	
 	public static void main(String[] args) {
-		System.out.println("-------------\nINPUT NAME\n-------------\n");
+		System.out.println("-------------\nWORDS.java\n-------------\n");
 		PApplet.main("main.Launcher");
 	}
 
